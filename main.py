@@ -1,7 +1,7 @@
 import tkinter as tk
 
 class Application(tk.Frame):
-    # textに関する情報を格納する変数
+    # text Widgetに関する情報を格納する変数
     text = None
 
     def __init__(self, master=None):
